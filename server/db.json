@@ -1,0 +1,32 @@
+{
+  "userDetails": [
+    {
+      "id": "55fdab27-813c-46ec-8762-8548d7938062",
+      "name": "Mahesh",
+      "email": "mb@gmail.com",
+      "phone": "7656458602",
+      "createdAt": "Wednesday, October 12th 2022, 12:48:46 pm"
+    },
+    {
+      "id": "3ba643b0-59a8-41a9-ac0e-a89600b87562",
+      "name": "Pravash",
+      "email": "pravash@gmail.com",
+      "phone": "9207324123",
+      "createdAt": "Wednesday, October 12th 2022, 1:18:53 pm"
+    },
+    {
+      "id": "a6f5372c-e2d8-43c8-90a5-3e0a95f9fdea",
+      "name": "Rajesh",
+      "email": "abcd@gmail.com",
+      "phone": "8967120236",
+      "createdAt": "Wednesday, October 12th 2022, 1:24:40 pm"
+    },
+    {
+      "id": "428297a9-3385-4f42-bb7f-af0f7f0955f5",
+      "name": "demo20",
+      "email": "demo@gmail.com",
+      "phone": "9898989898",
+      "createdAt": "Wednesday, October 12th 2022, 1:25:51 pm"
+    }
+  ]
+}
